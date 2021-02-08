@@ -1,3 +1,41 @@
+# Component Elements
+Header
+
+- NavSearchBar
+
+"Go Near" div w/ image
+
+8 local destinations w/ small image and text and driving distance
+  - 8 divs
+
+Live Anywhere
+  - 4 divs
+
+experience the world
+  - 3 divs
+
+join millions of hosts on Airbnb
+  - 3 divs
+
+inspiration for future getaways
+  - 1 nav div
+  - 4 divs
+
+footer
+  - 4 divs
+  - 1 attribution div
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
