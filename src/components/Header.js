@@ -9,7 +9,7 @@ function Header(){
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
-			      <HeaderLogo />
+            <HeaderLogo />
           </div>
           <div class="col-lg-6">
             <HeaderNavBar />
